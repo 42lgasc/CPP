@@ -1,7 +1,9 @@
 [submodule "Module 00"]
 	path = Module 00
 	url = git@github.com:42lgasc/CPP_Module00.git
-
 [submodule "Module 01"]
 	path = Module 01
 	url = git@github.com:42lgasc/CPP_Module01.git
+[submodule "Module 02"]
+	path = Module 02
+	url = git@github.com:42lgasc/CPP_Module02.git
